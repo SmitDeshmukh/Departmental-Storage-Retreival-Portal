@@ -1,1 +1,1 @@
-# Departmental-Storage-Retreival-Portal
+# Departmental-Storage-Retrieval-Portal
